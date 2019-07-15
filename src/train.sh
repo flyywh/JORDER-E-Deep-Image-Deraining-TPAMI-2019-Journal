@@ -1,0 +1,1 @@
+/home/staff/wyang34/anaconda3/envs/pytorch-0.4.1/bin/python3.6 main.py --scale 2 --save JORDER_E_RainHeavy --model JORDER_E --epochs 200 --batch_size 8 --patch_size 64 --data_train RainHeavy --data_test RainHeavyTest --data_range 1-1800/1-15 --loss 1*L1 --save_models
