@@ -1,0 +1,1 @@
+/home/staff/wyang34/anaconda3/envs/pytorch-0.4.1/bin/python3.6 -u main.py --data_test RainHeavyTest  --ext img --scale 2  --data_range 1-300/1-300 --pre_train ../experiment/JORDER_E_RainHeavy/model/model_best.pt --model JORDER_E --test_only --save_results --save JORDER_E_RainHeavy_test
