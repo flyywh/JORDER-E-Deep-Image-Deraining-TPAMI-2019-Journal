@@ -13,3 +13,6 @@ This website shares codes of the "Joint Rain Detection and Removal from a Single
 ## Example:
 
 Please refer to ./src/train.sh
+
+## We provide a heavy rain-oriented pretrained model in testing_practical directory:
+Please refer to ./testing_practical/src/test.sh to see the usage example.
