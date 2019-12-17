@@ -14,7 +14,7 @@ This website shares codes of the "Joint Rain Detection and Removal from a Single
 
 Please refer to ./src/train.sh
 
-## Heavy Rain-Oriented Rretrained Streak Removal Model
+## Heavy Rain-Oriented Pretrained Streak Removal Model
 
 We provide a heavy rain-oriented pretrained streak removal model in the testing_practical directory.
 
