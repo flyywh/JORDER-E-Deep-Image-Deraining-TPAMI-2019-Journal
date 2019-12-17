@@ -2,7 +2,7 @@
 
 This website shares codes of the "Joint Rain Detection and Removal from a Single Image with Contextualized Deep Networks", TPAMI-2019.
 
-## Prerequisites:
+## Prerequisites
 
 1. Linux
 2. Python 3.6
@@ -10,7 +10,7 @@ This website shares codes of the "Joint Rain Detection and Removal from a Single
 4. Pytorch 0.4.1
 5. SciPy v1.1.0
 
-## Example:
+## Example
 
 Please refer to ./src/train.sh
 
